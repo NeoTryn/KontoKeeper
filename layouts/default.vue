@@ -9,7 +9,12 @@
 </template>
 
 <style>
+@import url('./../assets/palette.css');
+
 * {
     font-family: "Inter", sans-serif;
+    color: var(--grey);
+    margin: 0;
+    padding: 0;
 }
 </style>
