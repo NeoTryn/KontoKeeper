@@ -1,9 +1,6 @@
 :root {
-    --purple: #C490D1;
-    --purple_light: #f1b9ff;
+    --primary: #AD49E1;
+    --primary-dark: #310D20;
 
-    --peach: #FFBE86;
-    --blue: #A9FFF7;
-    --green: #94FBAB;
-    --grey: #282828;
+    --eerie-black: #222222;
 }
